@@ -1,5 +1,7 @@
 package jp.co.lilly;
 
+import jp.co.lilly.templateMethod.StartTemplateMethod;
+
 public class Main {
 
   public static void main(String[] args){
@@ -9,5 +11,8 @@ public class Main {
 
 	// Adapter実行
 	//StartAdapter.startAdapter();
+
+	// TemplateMethod実行
+	StartTemplateMethod.startTemplateMethod();
   }
 }
