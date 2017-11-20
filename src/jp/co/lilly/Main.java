@@ -6,5 +6,8 @@ public class Main {
 
 	// Iterator実行
     // StartIterator.startIterator();
+
+	// Adapter実行
+	//StartAdapter.startAdapter();
   }
 }
